@@ -6,3 +6,5 @@ pysocks
 colorama
 undetected_chromedriver
 cloudscraper
+asciimatics
+pystyle
